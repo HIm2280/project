@@ -1,0 +1,6 @@
+input、output是未处理过的原始npy文件
+norm_input、norm_output是标准化后的npy文件
+pre_input是预测脚本的输入
+pre_output是预测脚本的逆标准化后的输出
+pre_real是预测输入对应的真值
+（同名文件相互对应）
